@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Dat108_Oblig3_Gr18">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Test"/>
+        <property name="java-output-path" value="/Dat108_Oblig3_Gr18/build/classes"/>
+        <property name="context-root" value="Dat108_Oblig3_Gr18"/>
+    </wb-module>
+</project-modules>
